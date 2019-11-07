@@ -36,7 +36,7 @@
 	
     <Base file="data/entities/base_item.xml" >
         <ItemComponent
-            item_name="duplicate_gun"
+            item_name="eden_wand"
             remove_on_death="1"
             play_hover_animation="1"
             collect_nondefault_actions="1" >
